@@ -1,0 +1,7 @@
+:root{
+    --cream-2-color: #FFE4C3;
+}
+
+body{
+    background-color: var(--cream-2-color);
+}
